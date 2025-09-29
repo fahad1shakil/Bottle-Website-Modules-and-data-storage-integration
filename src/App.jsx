@@ -4,7 +4,6 @@ import Bottles from './component/Bottles/Bottles'
 
 // const bottlesPromise =fetch('./bottle.json').then (res => res.json());
 
-
 // const bottlesPromise2 = fetch('https://raw.githubusercontent.com/fahad1shakil/public-api/refs/heads/main/bottles.json').then(res => res.json())
 
 const bottlesPromise = fetch('./bottles.json')
